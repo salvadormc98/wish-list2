@@ -1,0 +1,20 @@
+{
+  "name": "wish-list",
+  "version": "1.0.0",
+  "description": "Hacer una Wish-List",
+  "main": "index.js",
+  "scripts": {
+    "start": "wds --node-resolve --watch --open"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Salvador Marquez Cruz",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lit": "^2.8.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.3.1"
+  }
+}
